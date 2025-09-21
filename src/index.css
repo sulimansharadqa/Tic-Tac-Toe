@@ -362,6 +362,7 @@ footer {
   color: #e1dec7;
   padding: 2rem 0;
   text-align: center;
+  border-radius: 6px;
   margin-top: 3rem;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
 }
