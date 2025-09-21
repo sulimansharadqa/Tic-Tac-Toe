@@ -4,7 +4,7 @@
   <img src="public/game-logo.png" alt="Tic Tac Toe Logo" width="200"/>
 </p>
 
-[![React](https://img.shields.io/badge/React-18-blue?logo=react)](https://reactjs.org/)
+[![React](https://img.shields.io/badge/React-19-blue?logo=react)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-4-646CFF?logo=vite)](https://vitejs.dev/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
